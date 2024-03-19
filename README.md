@@ -9,6 +9,9 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
 
+Inicio de la actividad Practica 1
+Alumno: Noelia Sotelo Taboada
+
 ## Descripción del contenido
 
 Carpetas:
